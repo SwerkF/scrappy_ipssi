@@ -1,0 +1,907 @@
+[
+    {
+        "numero": "0200.420.410",
+        "generalites": {
+            "numero": "0200.420.410",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "1 janvier 1968",
+            "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest",
+            "adresse": "Michel Theysstraat 18 3290 Diest",
+            "forme_legale": "Autre forme de droit privé avec personnalité juridique"
+        },
+        "fonctions": [],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "numero": "0200.420.410", "nom": "", "relation": "" }],
+        "liens_externes": [
+            {
+                "description": "0200.420.410",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"
+            },
+            {
+                "description": "0400.420.453",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"
+            },
+            {
+                "description": "0200.420.410",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"
+            },
+            {
+                "description": "0200.420.410",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"
+            },
+            {
+                "description": "0400.420.453",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"
+            }
+        ]
+    },
+    {
+        "numero": "0200.171.970",
+        "generalites": {
+            "numero": "0200.171.970",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "1 janvier 1968",
+            "denomination": "Sanatorium-Hospitaal van Lemberge",
+            "adresse": "Brabantdam 101 9000 Gent",
+            "forme_legale": "Société coopérative de droit public (ancien statut)"
+        },
+        "fonctions": [],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [{ "description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968" }],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "capital": "0,00",
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"
+            }
+        ]
+    },
+    {
+        "numero": "0200.245.711",
+        "generalites": {
+            "numero": "0200.245.711",
+            "statut": "Actif",
+            "situation_juridique": "Dissolution volontaire – liquidation",
+            "date_debut": "1 janvier 1922",
+            "denomination": "Intercommunaal Sanatorium Denderoord",
+            "adresse": "Hoge Buizemont 247 9500 Geraardsbergen",
+            "forme_legale": "Société coopérative de droit public (ancien statut)"
+        },
+        "fonctions": [],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "capital": "0,00",
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"
+            }
+        ]
+    },
+    {
+        "numero": "0200.362.408",
+        "generalites": {
+            "numero": "0200.362.408",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "1 janvier 1968",
+            "denomination": "Intercommunale Sociale du Brabant wallon",
+            "adresse": "Rue du Cerf 200 1332 Rixensart",
+            "forme_legale": "Société coopérative"
+        },
+        "fonctions": [
+            {
+                "titre": "Administrateur",
+                "nom": "Agapitos ,   Sophie",
+                "date_debut": "13 janvier 2025"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Burton ,   Emmanuel",
+                "date_debut": "13 janvier 2025"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Bury ,   Stéphanie",
+                "date_debut": "25 juin 2019"
+            },
+            { "titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019" },
+            { "titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Ghiot ,   Carole",
+                "date_debut": "13 janvier 2025"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Henrioulle ,   Ludivine",
+                "date_debut": "14 décembre 2015"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Lambert ,   Arthur",
+                "date_debut": "8 décembre 2021"
+            },
+            { "titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Meurice ,   Jean",
+                "date_debut": "20 février 2008"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Peeterbroeck ,   Françoise",
+                "date_debut": "24 juin 2013"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Perpète ,   Robin",
+                "date_debut": "14 décembre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Pirart ,   Gaëtan",
+                "date_debut": "21 décembre 2017"
+            },
+            { "titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013" },
+            {
+                "titre": "Administrateur",
+                "nom": "Thoreau ,   Benoit",
+                "date_debut": "25 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Tordoir ,   Joseph",
+                "date_debut": "25 juin 2019"
+            },
+            { "titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019" }
+        ],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [
+            { "description": "Employeur ONSS", "date_debut": "1 janvier 2022" },
+            { "description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968" }
+        ],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"
+            },
+            {
+                "description": "Répertoire des employeurs",
+                "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"
+            }
+        ]
+    },
+    {
+        "numero": "0200.362.210",
+        "generalites": {
+            "numero": "0200.362.210",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "26 février 1968",
+            "denomination": "in BW Association Intercommunale",
+            "adresse": "Rue de la Religion 10 1400 Nivelles",
+            "forme_legale": "Société coopérative"
+        },
+        "fonctions": [
+            { "titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021" },
+            {
+                "titre": "Administrateur",
+                "nom": "de Beer de Laer ,   Hadelin",
+                "date_debut": "12 décembre 2018"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "de Sauvage ,   Delphine",
+                "date_debut": "12 février 2025"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Delmez ,   Bénédicte",
+                "date_debut": "12 décembre 2018"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Dister ,   Christophe",
+                "date_debut": "6 décembre 2024"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Du Monceau de Bergendal ,   Cédric",
+                "date_debut": "11 décembre 2024"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Fayt ,   Christian",
+                "date_debut": "26 juin 2013"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Flamand ,   Muriel",
+                "date_debut": "26 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Ghiot ,   Carole",
+                "date_debut": "9 novembre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Goblet d'Alviella ,   Michael",
+                "date_debut": "27 juin 2018"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Godfriaux ,   Jordan",
+                "date_debut": "12 décembre 2018"
+            },
+            { "titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013" },
+            { "titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001" },
+            {
+                "titre": "Administrateur",
+                "nom": "Keymolen ,   Sophie",
+                "date_debut": "7 octobre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Lebon ,   Patricia",
+                "date_debut": "26 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Löwenthal ,   Bernard",
+                "date_debut": "26 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Renault ,   Louison",
+                "date_debut": "13 novembre 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Smets ,   Laurence",
+                "date_debut": "18 juin 2001"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Thiry ,   Jean-Marie",
+                "date_debut": "2 décembre 2024"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Zocastello ,   Jean",
+                "date_debut": "18 décembre 2019"
+            },
+            {
+                "titre": "Personne déléguée à la gestion journalière",
+                "nom": "Dauge ,   Laurent",
+                "date_debut": "1 septembre 2022"
+            }
+        ],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [
+            { "description": "Employeur ONSS", "date_debut": "1 janvier 2022" },
+            { "description": "Assujettie à la TVA", "date_debut": "1 décembre 1972" },
+            { "description": "Pouvoir adjudicateur", "date_debut": "26 février 1968" }
+        ],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": {
+            "2025": [
+                { "code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025" }
+            ],
+            "2008": [{ "date_debut": "1 janvier 2008" }],
+            "2003": [
+                {
+                    "code": "90.010",
+                    "description": "Collecte et traitement des eaux usées",
+                    "date_debut": "1 décembre 1972"
+                }
+            ]
+        },
+        "donnees_financieres": {
+            "assemblee_generale": "juin",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [
+            {
+                "numero": "0200.362.111",
+                "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"
+            },
+            { "numero": "Publications au Moniteur belge", "nom": "", "relation": "" }
+        ],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"
+            },
+            {
+                "description": "Répertoire des employeurs",
+                "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"
+            }
+        ]
+    },
+    {
+        "numero": "0200.305.493",
+        "generalites": {
+            "numero": "0200.305.493",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "19 mars 1962",
+            "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie",
+            "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem",
+            "forme_legale": "Association prestataire de services (Région flamande)"
+        },
+        "fonctions": [
+            { "titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Bontinck ,   Yves",
+                "date_debut": "19 avril 2022"
+            },
+            { "titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "De Clercq ,   Angélique",
+                "date_debut": "26 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "De Keyser ,   Christiaan",
+                "date_debut": "19 avril 2022"
+            },
+            { "titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022" },
+            { "titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022" },
+            {
+                "titre": "Administrateur",
+                "nom": "Martin ,   Jean-Paul",
+                "date_debut": "26 juin 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Neirinck ,   Francia",
+                "date_debut": "19 avril 2022"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Roobroeck ,   Sabine",
+                "date_debut": "19 avril 2022"
+            },
+            { "titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Van hooland ,   Tineke",
+                "date_debut": "19 avril 2022"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Van Trimpont ,   Fernand",
+                "date_debut": "2 février 2021"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Van Vaerenbergh ,   Silke",
+                "date_debut": "16 décembre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Vander Meeren ,   Luc",
+                "date_debut": "19 avril 2022"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Vanhoutte ,   Brigitte",
+                "date_debut": "13 février 2007"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Vekeman ,   Steven",
+                "date_debut": "19 avril 2022"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Verleyen ,   Geoffrey",
+                "date_debut": "26 juin 2019"
+            },
+            { "titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016" }
+        ],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [
+            { "description": "Employeur ONSS", "date_debut": "1 janvier 2022" },
+            { "description": "Assujettie à la TVA", "date_debut": "1 janvier 1971" },
+            { "description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922" }
+        ],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": {
+            "2025": [
+                { "code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025" }
+            ],
+            "2008": [
+                { "date_debut": "1 janvier 2020" },
+                { "date_debut": "1 janvier 2017" },
+                { "date_debut": "1 mai 2017" },
+                { "date_debut": "1 janvier 2008" },
+                { "date_debut": "1 janvier 2020" }
+            ],
+            "2003": [
+                {
+                    "code": "45.213",
+                    "description": "Construction de bâtiments d'usage industriel, commercial ou agricole",
+                    "date_debut": "1 janvier 1971"
+                }
+            ]
+        },
+        "donnees_financieres": {
+            "capital": "125.000,00 EUR",
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"
+            },
+            {
+                "description": "Répertoire des employeurs",
+                "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"
+            }
+        ]
+    },
+    {
+        "numero": "0200.068.636",
+        "generalites": {
+            "numero": "0200.068.636",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "16 février 1923",
+            "denomination": "Farys",
+            "adresse": "Stropstraat 1 9000 Gent",
+            "forme_legale": "Association chargée de mission (Région flamande)"
+        },
+        "fonctions": [
+            { "titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "De Mulder ,   Frank",
+                "date_debut": "22 décembre 2017"
+            },
+            { "titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022" },
+            {
+                "titre": "Administrateur",
+                "nom": "Deknopper ,   Eddy",
+                "date_debut": "22 mars 2019"
+            },
+            { "titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Desloovere ,   Wim",
+                "date_debut": "22 décembre 2017"
+            },
+            { "titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007" },
+            {
+                "titre": "Administrateur",
+                "nom": "Ingabire Uwibambe ,   Esther",
+                "date_debut": "22 mars 2019"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Matthys ,   Martine",
+                "date_debut": "22 mars 2019"
+            },
+            { "titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020" },
+            {
+                "titre": "Administrateur",
+                "nom": "Peeters ,   Christophe",
+                "date_debut": "22 juin 2007"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Pierins ,   Philip",
+                "date_debut": "11 décembre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Uyttersprot ,   Goedele",
+                "date_debut": "17 juin 2022"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Van Vaerenbergh ,   Silke",
+                "date_debut": "11 décembre 2020"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Verleyen ,   Philippe",
+                "date_debut": "16 juin 2006"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Verschraegen ,   Matthijs",
+                "date_debut": "19 décembre 2019"
+            },
+            {
+                "titre": "Personne déléguée à la gestion journalière",
+                "nom": "Porto-Carrero ,   Marleen",
+                "date_debut": "18 décembre 2019"
+            }
+        ],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [
+            { "description": "Employeur ONSS", "date_debut": "1 janvier 2022" },
+            { "description": "Assujettie à la TVA", "date_debut": "1 janvier 1971" },
+            { "description": "Pouvoir adjudicateur", "date_debut": "16 février 1923" }
+        ],
+        "autorisations": [
+            {
+                "description": "BELAC - Laboratoire d'essais",
+                "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"
+            }
+        ],
+        "nace_codes": {
+            "2025": [
+                { "code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025" },
+                { "code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025" }
+            ],
+            "2008": [
+                { "date_debut": "24 mars 2010" },
+                { "date_debut": "1 janvier 2008" },
+                { "date_debut": "22 juillet 2008" },
+                { "date_debut": "22 octobre 2008" }
+            ],
+            "2003": [
+                {
+                    "code": "41.000",
+                    "description": "Captage, épuration et distribution d'eau",
+                    "date_debut": "1 janvier 1971"
+                }
+            ]
+        },
+        "donnees_financieres": {
+            "capital": "1.978.935,00 EUR",
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [
+            {
+                "numero": "0427.324.788",
+                "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"
+            },
+            { "numero": "Publications au Moniteur belge", "nom": "", "relation": "" }
+        ],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"
+            },
+            {
+                "description": "Répertoire des employeurs",
+                "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"
+            }
+        ]
+    },
+    {
+        "numero": "0200.065.765",
+        "generalites": {
+            "numero": "0200.065.765",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "9 août 1960",
+            "denomination": "Intergemeentelijke Vereniging Veneco",
+            "adresse": "Panhuisstraat 1 9070 Destelbergen",
+            "forme_legale": "Association prestataire de services (Région flamande)"
+        },
+        "fonctions": [
+            {
+                "titre": "Administrateur",
+                "nom": "Boterdaele ,   Marc",
+                "date_debut": "28 juin 2023"
+            },
+            { "titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023" },
+            { "titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013" },
+            {
+                "titre": "Administrateur",
+                "nom": "De Cooman ,   Christine",
+                "date_debut": "1 avril 2023"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "De Maeseneer ,   Dirk",
+                "date_debut": "1 avril 2021"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Demunck ,   Benedikte",
+                "date_debut": "1 avril 2023"
+            },
+            { "titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021" },
+            { "titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023" },
+            { "titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Mervillie ,   Annie",
+                "date_debut": "1 avril 2023"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Roelekens ,   Evelien",
+                "date_debut": "1 décembre 2021"
+            },
+            { "titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019" },
+            {
+                "titre": "Administrateur",
+                "nom": "Trenson ,   Herlinde",
+                "date_debut": "1 avril 2023"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Uytterhaegher ,   Kevin",
+                "date_debut": "1 avril 2021"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Van de Moere ,   Franki",
+                "date_debut": "1 avril 2021"
+            },
+            {
+                "titre": "Administrateur",
+                "nom": "Vandenabeele ,   Luc",
+                "date_debut": "1 avril 2021"
+            }
+        ],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [
+            { "description": "Employeur ONSS", "date_debut": "1 janvier 2022" },
+            { "description": "Assujettie à la TVA", "date_debut": "1 mars 2007" },
+            { "description": "Pouvoir adjudicateur", "date_debut": "9 août 1960" }
+        ],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": {
+            "2025": [
+                { "code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025" }
+            ],
+            "2008": [{ "date_debut": "1 janvier 2008" }],
+            "2003": [
+                {
+                    "code": "70.111",
+                    "description": "Promotion immobilière de logements",
+                    "date_debut": "1 mars 2007"
+                }
+            ]
+        },
+        "donnees_financieres": {
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"
+            },
+            {
+                "description": "Répertoire des employeurs",
+                "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"
+            }
+        ]
+    },
+    {
+        "numero": "0200.420.608",
+        "generalites": {
+            "numero": "0200.420.608",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "1 janvier 1968",
+            "denomination": "Congregatie der Gasthuiszusters van Poperinge",
+            "adresse": "Ieperstraat 134 8970 Poperinge",
+            "forme_legale": "Etablissement public"
+        },
+        "fonctions": [],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"
+            }
+        ]
+    },
+    {
+        "numero": "0200.448.421",
+        "generalites": {
+            "numero": "0200.448.421",
+            "statut": "Actif",
+            "situation_juridique": "Situation normale",
+            "date_debut": "2 août 1963",
+            "denomination": "Liefdadige Congregatie der Gasthuiszusters",
+            "adresse": "Budastraat(Kor) 37 8500 Kortrijk",
+            "forme_legale": "Etablissement public"
+        },
+        "fonctions": [],
+        "capacites": [{ "type": "Pas de données reprises dans la BCE." }],
+        "qualites": [],
+        "autorisations": [{ "description": "Pas de données reprises dans la BCE." }],
+        "nace_codes": { "2025": [], "2008": [], "2003": [] },
+        "donnees_financieres": {
+            "assemblee_generale": "mai",
+            "fin_annee_comptable": "31 décembre"
+        },
+        "liens_entites": [{ "description": "Pas de données reprises dans la BCE." }],
+        "liens_externes": [
+            {
+                "description": "Publications au Moniteur belge",
+                "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"
+            },
+            {
+                "description": "Publications des comptes annuels à la BNB",
+                "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"
+            },
+            {
+                "description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)",
+                "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"
+            }
+        ]
+    }
+]
+[
+{"numero": "0200.171.970", "generalites": {"numero": "0200.171.970", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Sanatorium-Hospitaal van Lemberge", "adresse": "Brabantdam 101 9000 Gent", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"}]},
+{"numero": "0200.068.636", "generalites": {"numero": "0200.068.636", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "16 février 1923", "denomination": "Farys", "adresse": "Stropstraat 1 9000 Gent", "forme_legale": "Association chargée de mission (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "De Mulder ,   Frank", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Deknopper ,   Eddy", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Desloovere ,   Wim", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Ingabire Uwibambe ,   Esther", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Matthys ,   Martine", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020"}, {"titre": "Administrateur", "nom": "Peeters ,   Christophe", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Pierins ,   Philip", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Uyttersprot ,   Goedele", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Verleyen ,   Philippe", "date_debut": "16 juin 2006"}, {"titre": "Administrateur", "nom": "Verschraegen ,   Matthijs", "date_debut": "19 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Porto-Carrero ,   Marleen", "date_debut": "18 décembre 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "16 février 1923"}], "autorisations": [{"description": "BELAC - Laboratoire d'essais", "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"}], "nace_codes": {"2025": [{"code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "24 mars 2010"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "22 juillet 2008"}, {"date_debut": "22 octobre 2008"}], "2003": [{"code": "41.000", "description": "Captage, épuration et distribution d'eau", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "1.978.935,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0427.324.788", "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"}]},
+{"numero": "0200.362.408", "generalites": {"numero": "0200.362.408", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Intercommunale Sociale du Brabant wallon", "adresse": "Rue du Cerf 200 1332 Rixensart", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agapitos ,   Sophie", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Burton ,   Emmanuel", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Bury ,   Stéphanie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Henrioulle ,   Ludivine", "date_debut": "14 décembre 2015"}, {"titre": "Administrateur", "nom": "Lambert ,   Arthur", "date_debut": "8 décembre 2021"}, {"titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Meurice ,   Jean", "date_debut": "20 février 2008"}, {"titre": "Administrateur", "nom": "Peeterbroeck ,   Françoise", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Perpète ,   Robin", "date_debut": "14 décembre 2020"}, {"titre": "Administrateur", "nom": "Pirart ,   Gaëtan", "date_debut": "21 décembre 2017"}, {"titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Thoreau ,   Benoit", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Tordoir ,   Joseph", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"}]},
+{"numero": "0200.420.410", "generalites": {"numero": "0200.420.410", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest", "adresse": "Michel Theysstraat 18 3290 Diest", "forme_legale": "Autre forme de droit privé avec personnalité juridique"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.420.410", "nom": "", "relation": ""}], "liens_externes": [{"description": "0200.420.410", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"}, {"description": "0400.420.453", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"}, {"description": "0200.420.410", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"}, {"description": "0200.420.410", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"}, {"description": "0400.420.453", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"}]},
+{"numero": "0200.245.711", "generalites": {"numero": "0200.245.711", "statut": "Actif", "situation_juridique": "Dissolution volontaire – liquidation", "date_debut": "1 janvier 1922", "denomination": "Intercommunaal Sanatorium Denderoord", "adresse": "Hoge Buizemont 247 9500 Geraardsbergen", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"}]},
+{"numero": "0200.305.493", "generalites": {"numero": "0200.305.493", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "19 mars 1962", "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie", "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Bontinck ,   Yves", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Clercq ,   Angélique", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Keyser ,   Christiaan", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Martin ,   Jean-Paul", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Neirinck ,   Francia", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Roobroeck ,   Sabine", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Van hooland ,   Tineke", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Van Trimpont ,   Fernand", "date_debut": "2 février 2021"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "16 décembre 2020"}, {"titre": "Administrateur", "nom": "Vander Meeren ,   Luc", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Vanhoutte ,   Brigitte", "date_debut": "13 février 2007"}, {"titre": "Administrateur", "nom": "Vekeman ,   Steven", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Verleyen ,   Geoffrey", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2020"}, {"date_debut": "1 janvier 2017"}, {"date_debut": "1 mai 2017"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "1 janvier 2020"}], "2003": [{"code": "45.213", "description": "Construction de bâtiments d'usage industriel, commercial ou agricole", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "125.000,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"}]},
+{"numero": "0200.065.765", "generalites": {"numero": "0200.065.765", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "9 août 1960", "denomination": "Intergemeentelijke Vereniging Veneco", "adresse": "Panhuisstraat 1 9070 Destelbergen", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Boterdaele ,   Marc", "date_debut": "28 juin 2023"}, {"titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013"}, {"titre": "Administrateur", "nom": "De Cooman ,   Christine", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "De Maeseneer ,   Dirk", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Demunck ,   Benedikte", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Mervillie ,   Annie", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Roelekens ,   Evelien", "date_debut": "1 décembre 2021"}, {"titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Trenson ,   Herlinde", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Uytterhaegher ,   Kevin", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Van de Moere ,   Franki", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Vandenabeele ,   Luc", "date_debut": "1 avril 2021"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 mars 2007"}, {"description": "Pouvoir adjudicateur", "date_debut": "9 août 1960"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "70.111", "description": "Promotion immobilière de logements", "date_debut": "1 mars 2007"}]}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"}]},
+{"numero": "0200.362.210", "generalites": {"numero": "0200.362.210", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "26 février 1968", "denomination": "in BW Association Intercommunale", "adresse": "Rue de la Religion 10 1400 Nivelles", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021"}, {"titre": "Administrateur", "nom": "de Beer de Laer ,   Hadelin", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "de Sauvage ,   Delphine", "date_debut": "12 février 2025"}, {"titre": "Administrateur", "nom": "Delmez ,   Bénédicte", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Dister ,   Christophe", "date_debut": "6 décembre 2024"}, {"titre": "Administrateur", "nom": "Du Monceau de Bergendal ,   Cédric", "date_debut": "11 décembre 2024"}, {"titre": "Administrateur", "nom": "Fayt ,   Christian", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Flamand ,   Muriel", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "9 novembre 2020"}, {"titre": "Administrateur", "nom": "Goblet d'Alviella ,   Michael", "date_debut": "27 juin 2018"}, {"titre": "Administrateur", "nom": "Godfriaux ,   Jordan", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Keymolen ,   Sophie", "date_debut": "7 octobre 2020"}, {"titre": "Administrateur", "nom": "Lebon ,   Patricia", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Löwenthal ,   Bernard", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Renault ,   Louison", "date_debut": "13 novembre 2019"}, {"titre": "Administrateur", "nom": "Smets ,   Laurence", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Thiry ,   Jean-Marie", "date_debut": "2 décembre 2024"}, {"titre": "Administrateur", "nom": "Zocastello ,   Jean", "date_debut": "18 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Dauge ,   Laurent", "date_debut": "1 septembre 2022"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 décembre 1972"}, {"description": "Pouvoir adjudicateur", "date_debut": "26 février 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "90.010", "description": "Collecte et traitement des eaux usées", "date_debut": "1 décembre 1972"}]}, "donnees_financieres": {"assemblee_generale": "juin", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.362.111", "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"}]},
+{"numero": "0200.420.608", "generalites": {"numero": "0200.420.608", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters van Poperinge", "adresse": "Ieperstraat 134 8970 Poperinge", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"}]},
+{"numero": "0200.448.421", "generalites": {"numero": "0200.448.421", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "2 août 1963", "denomination": "Liefdadige Congregatie der Gasthuiszusters", "adresse": "Budastraat(Kor) 37 8500 Kortrijk", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"}]}
+][
+{"numero": "0200.420.410", "generalites": {"numero": "0200.420.410", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest", "adresse": "Michel Theysstraat 18 3290 Diest", "forme_legale": "Autre forme de droit privé avec personnalité juridique"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.420.410", "nom": "", "relation": ""}], "liens_externes": [{"description": "0200.420.410", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"}, {"description": "0400.420.453", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"}, {"description": "0200.420.410", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"}, {"description": "0200.420.410", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"}, {"description": "0400.420.453", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"}]},
+{"numero": "0200.362.408", "generalites": {"numero": "0200.362.408", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Intercommunale Sociale du Brabant wallon", "adresse": "Rue du Cerf 200 1332 Rixensart", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agapitos ,   Sophie", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Burton ,   Emmanuel", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Bury ,   Stéphanie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Henrioulle ,   Ludivine", "date_debut": "14 décembre 2015"}, {"titre": "Administrateur", "nom": "Lambert ,   Arthur", "date_debut": "8 décembre 2021"}, {"titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Meurice ,   Jean", "date_debut": "20 février 2008"}, {"titre": "Administrateur", "nom": "Peeterbroeck ,   Françoise", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Perpète ,   Robin", "date_debut": "14 décembre 2020"}, {"titre": "Administrateur", "nom": "Pirart ,   Gaëtan", "date_debut": "21 décembre 2017"}, {"titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Thoreau ,   Benoit", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Tordoir ,   Joseph", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"}]},
+{"numero": "0200.245.711", "generalites": {"numero": "0200.245.711", "statut": "Actif", "situation_juridique": "Dissolution volontaire – liquidation", "date_debut": "1 janvier 1922", "denomination": "Intercommunaal Sanatorium Denderoord", "adresse": "Hoge Buizemont 247 9500 Geraardsbergen", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"}]},
+{"numero": "0200.171.970", "generalites": {"numero": "0200.171.970", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Sanatorium-Hospitaal van Lemberge", "adresse": "Brabantdam 101 9000 Gent", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"}]},
+{"numero": "0200.065.765", "generalites": {"numero": "0200.065.765", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "9 août 1960", "denomination": "Intergemeentelijke Vereniging Veneco", "adresse": "Panhuisstraat 1 9070 Destelbergen", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Boterdaele ,   Marc", "date_debut": "28 juin 2023"}, {"titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013"}, {"titre": "Administrateur", "nom": "De Cooman ,   Christine", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "De Maeseneer ,   Dirk", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Demunck ,   Benedikte", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Mervillie ,   Annie", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Roelekens ,   Evelien", "date_debut": "1 décembre 2021"}, {"titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Trenson ,   Herlinde", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Uytterhaegher ,   Kevin", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Van de Moere ,   Franki", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Vandenabeele ,   Luc", "date_debut": "1 avril 2021"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 mars 2007"}, {"description": "Pouvoir adjudicateur", "date_debut": "9 août 1960"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "70.111", "description": "Promotion immobilière de logements", "date_debut": "1 mars 2007"}]}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"}]},
+{"numero": "0200.068.636", "generalites": {"numero": "0200.068.636", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "16 février 1923", "denomination": "Farys", "adresse": "Stropstraat 1 9000 Gent", "forme_legale": "Association chargée de mission (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "De Mulder ,   Frank", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Deknopper ,   Eddy", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Desloovere ,   Wim", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Ingabire Uwibambe ,   Esther", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Matthys ,   Martine", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020"}, {"titre": "Administrateur", "nom": "Peeters ,   Christophe", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Pierins ,   Philip", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Uyttersprot ,   Goedele", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Verleyen ,   Philippe", "date_debut": "16 juin 2006"}, {"titre": "Administrateur", "nom": "Verschraegen ,   Matthijs", "date_debut": "19 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Porto-Carrero ,   Marleen", "date_debut": "18 décembre 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "16 février 1923"}], "autorisations": [{"description": "BELAC - Laboratoire d'essais", "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"}], "nace_codes": {"2025": [{"code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "24 mars 2010"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "22 juillet 2008"}, {"date_debut": "22 octobre 2008"}], "2003": [{"code": "41.000", "description": "Captage, épuration et distribution d'eau", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "1.978.935,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0427.324.788", "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"}]},
+{"numero": "0200.362.210", "generalites": {"numero": "0200.362.210", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "26 février 1968", "denomination": "in BW Association Intercommunale", "adresse": "Rue de la Religion 10 1400 Nivelles", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021"}, {"titre": "Administrateur", "nom": "de Beer de Laer ,   Hadelin", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "de Sauvage ,   Delphine", "date_debut": "12 février 2025"}, {"titre": "Administrateur", "nom": "Delmez ,   Bénédicte", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Dister ,   Christophe", "date_debut": "6 décembre 2024"}, {"titre": "Administrateur", "nom": "Du Monceau de Bergendal ,   Cédric", "date_debut": "11 décembre 2024"}, {"titre": "Administrateur", "nom": "Fayt ,   Christian", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Flamand ,   Muriel", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "9 novembre 2020"}, {"titre": "Administrateur", "nom": "Goblet d'Alviella ,   Michael", "date_debut": "27 juin 2018"}, {"titre": "Administrateur", "nom": "Godfriaux ,   Jordan", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Keymolen ,   Sophie", "date_debut": "7 octobre 2020"}, {"titre": "Administrateur", "nom": "Lebon ,   Patricia", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Löwenthal ,   Bernard", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Renault ,   Louison", "date_debut": "13 novembre 2019"}, {"titre": "Administrateur", "nom": "Smets ,   Laurence", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Thiry ,   Jean-Marie", "date_debut": "2 décembre 2024"}, {"titre": "Administrateur", "nom": "Zocastello ,   Jean", "date_debut": "18 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Dauge ,   Laurent", "date_debut": "1 septembre 2022"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 décembre 1972"}, {"description": "Pouvoir adjudicateur", "date_debut": "26 février 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "90.010", "description": "Collecte et traitement des eaux usées", "date_debut": "1 décembre 1972"}]}, "donnees_financieres": {"assemblee_generale": "juin", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.362.111", "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"}]},
+{"numero": "0200.305.493", "generalites": {"numero": "0200.305.493", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "19 mars 1962", "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie", "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Bontinck ,   Yves", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Clercq ,   Angélique", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Keyser ,   Christiaan", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Martin ,   Jean-Paul", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Neirinck ,   Francia", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Roobroeck ,   Sabine", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Van hooland ,   Tineke", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Van Trimpont ,   Fernand", "date_debut": "2 février 2021"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "16 décembre 2020"}, {"titre": "Administrateur", "nom": "Vander Meeren ,   Luc", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Vanhoutte ,   Brigitte", "date_debut": "13 février 2007"}, {"titre": "Administrateur", "nom": "Vekeman ,   Steven", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Verleyen ,   Geoffrey", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2020"}, {"date_debut": "1 janvier 2017"}, {"date_debut": "1 mai 2017"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "1 janvier 2020"}], "2003": [{"code": "45.213", "description": "Construction de bâtiments d'usage industriel, commercial ou agricole", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "125.000,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"}]},
+{"numero": "0200.420.608", "generalites": {"numero": "0200.420.608", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters van Poperinge", "adresse": "Ieperstraat 134 8970 Poperinge", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"}]},
+{"numero": "0200.448.421", "generalites": {"numero": "0200.448.421", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "2 août 1963", "denomination": "Liefdadige Congregatie der Gasthuiszusters", "adresse": "Budastraat(Kor) 37 8500 Kortrijk", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"}]}
+][
+{"numero": "0200.171.970", "generalites": {"numero": "0200.171.970", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Sanatorium-Hospitaal van Lemberge", "adresse": "Brabantdam 101 9000 Gent", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"}]},
+{"numero": "0200.420.410", "generalites": {"numero": "0200.420.410", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest", "adresse": "Michel Theysstraat 18 3290 Diest", "forme_legale": "Autre forme de droit privé avec personnalité juridique"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.420.410", "nom": "", "relation": ""}], "liens_externes": [{"description": "0200.420.410", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"}, {"description": "0400.420.453", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"}, {"description": "0200.420.410", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"}, {"description": "0200.420.410", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"}, {"description": "0400.420.453", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"}]},
+{"numero": "0200.245.711", "generalites": {"numero": "0200.245.711", "statut": "Actif", "situation_juridique": "Dissolution volontaire – liquidation", "date_debut": "1 janvier 1922", "denomination": "Intercommunaal Sanatorium Denderoord", "adresse": "Hoge Buizemont 247 9500 Geraardsbergen", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"}]},
+{"numero": "0200.362.210", "generalites": {"numero": "0200.362.210", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "26 février 1968", "denomination": "in BW Association Intercommunale", "adresse": "Rue de la Religion 10 1400 Nivelles", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021"}, {"titre": "Administrateur", "nom": "de Beer de Laer ,   Hadelin", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "de Sauvage ,   Delphine", "date_debut": "12 février 2025"}, {"titre": "Administrateur", "nom": "Delmez ,   Bénédicte", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Dister ,   Christophe", "date_debut": "6 décembre 2024"}, {"titre": "Administrateur", "nom": "Du Monceau de Bergendal ,   Cédric", "date_debut": "11 décembre 2024"}, {"titre": "Administrateur", "nom": "Fayt ,   Christian", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Flamand ,   Muriel", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "9 novembre 2020"}, {"titre": "Administrateur", "nom": "Goblet d'Alviella ,   Michael", "date_debut": "27 juin 2018"}, {"titre": "Administrateur", "nom": "Godfriaux ,   Jordan", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Keymolen ,   Sophie", "date_debut": "7 octobre 2020"}, {"titre": "Administrateur", "nom": "Lebon ,   Patricia", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Löwenthal ,   Bernard", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Renault ,   Louison", "date_debut": "13 novembre 2019"}, {"titre": "Administrateur", "nom": "Smets ,   Laurence", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Thiry ,   Jean-Marie", "date_debut": "2 décembre 2024"}, {"titre": "Administrateur", "nom": "Zocastello ,   Jean", "date_debut": "18 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Dauge ,   Laurent", "date_debut": "1 septembre 2022"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 décembre 1972"}, {"description": "Pouvoir adjudicateur", "date_debut": "26 février 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "90.010", "description": "Collecte et traitement des eaux usées", "date_debut": "1 décembre 1972"}]}, "donnees_financieres": {"assemblee_generale": "juin", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.362.111", "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"}]},
+{"numero": "0200.065.765", "generalites": {"numero": "0200.065.765", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "9 août 1960", "denomination": "Intergemeentelijke Vereniging Veneco", "adresse": "Panhuisstraat 1 9070 Destelbergen", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Boterdaele ,   Marc", "date_debut": "28 juin 2023"}, {"titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013"}, {"titre": "Administrateur", "nom": "De Cooman ,   Christine", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "De Maeseneer ,   Dirk", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Demunck ,   Benedikte", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Mervillie ,   Annie", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Roelekens ,   Evelien", "date_debut": "1 décembre 2021"}, {"titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Trenson ,   Herlinde", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Uytterhaegher ,   Kevin", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Van de Moere ,   Franki", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Vandenabeele ,   Luc", "date_debut": "1 avril 2021"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 mars 2007"}, {"description": "Pouvoir adjudicateur", "date_debut": "9 août 1960"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "70.111", "description": "Promotion immobilière de logements", "date_debut": "1 mars 2007"}]}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"}]},
+{"numero": "0200.305.493", "generalites": {"numero": "0200.305.493", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "19 mars 1962", "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie", "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Bontinck ,   Yves", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Clercq ,   Angélique", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Keyser ,   Christiaan", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Martin ,   Jean-Paul", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Neirinck ,   Francia", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Roobroeck ,   Sabine", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Van hooland ,   Tineke", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Van Trimpont ,   Fernand", "date_debut": "2 février 2021"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "16 décembre 2020"}, {"titre": "Administrateur", "nom": "Vander Meeren ,   Luc", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Vanhoutte ,   Brigitte", "date_debut": "13 février 2007"}, {"titre": "Administrateur", "nom": "Vekeman ,   Steven", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Verleyen ,   Geoffrey", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2020"}, {"date_debut": "1 janvier 2017"}, {"date_debut": "1 mai 2017"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "1 janvier 2020"}], "2003": [{"code": "45.213", "description": "Construction de bâtiments d'usage industriel, commercial ou agricole", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "125.000,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"}]},
+{"numero": "0200.362.408", "generalites": {"numero": "0200.362.408", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Intercommunale Sociale du Brabant wallon", "adresse": "Rue du Cerf 200 1332 Rixensart", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agapitos ,   Sophie", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Burton ,   Emmanuel", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Bury ,   Stéphanie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Henrioulle ,   Ludivine", "date_debut": "14 décembre 2015"}, {"titre": "Administrateur", "nom": "Lambert ,   Arthur", "date_debut": "8 décembre 2021"}, {"titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Meurice ,   Jean", "date_debut": "20 février 2008"}, {"titre": "Administrateur", "nom": "Peeterbroeck ,   Françoise", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Perpète ,   Robin", "date_debut": "14 décembre 2020"}, {"titre": "Administrateur", "nom": "Pirart ,   Gaëtan", "date_debut": "21 décembre 2017"}, {"titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Thoreau ,   Benoit", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Tordoir ,   Joseph", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"}]},
+{"numero": "0200.068.636", "generalites": {"numero": "0200.068.636", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "16 février 1923", "denomination": "Farys", "adresse": "Stropstraat 1 9000 Gent", "forme_legale": "Association chargée de mission (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "De Mulder ,   Frank", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Deknopper ,   Eddy", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Desloovere ,   Wim", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Ingabire Uwibambe ,   Esther", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Matthys ,   Martine", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020"}, {"titre": "Administrateur", "nom": "Peeters ,   Christophe", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Pierins ,   Philip", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Uyttersprot ,   Goedele", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Verleyen ,   Philippe", "date_debut": "16 juin 2006"}, {"titre": "Administrateur", "nom": "Verschraegen ,   Matthijs", "date_debut": "19 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Porto-Carrero ,   Marleen", "date_debut": "18 décembre 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "16 février 1923"}], "autorisations": [{"description": "BELAC - Laboratoire d'essais", "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"}], "nace_codes": {"2025": [{"code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "24 mars 2010"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "22 juillet 2008"}, {"date_debut": "22 octobre 2008"}], "2003": [{"code": "41.000", "description": "Captage, épuration et distribution d'eau", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "1.978.935,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0427.324.788", "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"}]},
+{"numero": "0200.420.608", "generalites": {"numero": "0200.420.608", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters van Poperinge", "adresse": "Ieperstraat 134 8970 Poperinge", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"}]},
+{"numero": "0200.448.421", "generalites": {"numero": "0200.448.421", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "2 août 1963", "denomination": "Liefdadige Congregatie der Gasthuiszusters", "adresse": "Budastraat(Kor) 37 8500 Kortrijk", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"}]}
+][
+{"numero": "0200.362.408", "generalites": {"numero": "0200.362.408", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Intercommunale Sociale du Brabant wallon", "adresse": "Rue du Cerf 200 1332 Rixensart", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agapitos ,   Sophie", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Burton ,   Emmanuel", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Bury ,   Stéphanie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Henrioulle ,   Ludivine", "date_debut": "14 décembre 2015"}, {"titre": "Administrateur", "nom": "Lambert ,   Arthur", "date_debut": "8 décembre 2021"}, {"titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Meurice ,   Jean", "date_debut": "20 février 2008"}, {"titre": "Administrateur", "nom": "Peeterbroeck ,   Françoise", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Perpète ,   Robin", "date_debut": "14 décembre 2020"}, {"titre": "Administrateur", "nom": "Pirart ,   Gaëtan", "date_debut": "21 décembre 2017"}, {"titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Thoreau ,   Benoit", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Tordoir ,   Joseph", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"}]},
+{"numero": "0200.068.636", "generalites": {"numero": "0200.068.636", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "16 février 1923", "denomination": "Farys", "adresse": "Stropstraat 1 9000 Gent", "forme_legale": "Association chargée de mission (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "De Mulder ,   Frank", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Deknopper ,   Eddy", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Desloovere ,   Wim", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Ingabire Uwibambe ,   Esther", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Matthys ,   Martine", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020"}, {"titre": "Administrateur", "nom": "Peeters ,   Christophe", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Pierins ,   Philip", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Uyttersprot ,   Goedele", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Verleyen ,   Philippe", "date_debut": "16 juin 2006"}, {"titre": "Administrateur", "nom": "Verschraegen ,   Matthijs", "date_debut": "19 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Porto-Carrero ,   Marleen", "date_debut": "18 décembre 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "16 février 1923"}], "autorisations": [{"description": "BELAC - Laboratoire d'essais", "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"}], "nace_codes": {"2025": [{"code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "24 mars 2010"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "22 juillet 2008"}, {"date_debut": "22 octobre 2008"}], "2003": [{"code": "41.000", "description": "Captage, épuration et distribution d'eau", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "1.978.935,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0427.324.788", "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"}]},
+{"numero": "0200.245.711", "generalites": {"numero": "0200.245.711", "statut": "Actif", "situation_juridique": "Dissolution volontaire – liquidation", "date_debut": "1 janvier 1922", "denomination": "Intercommunaal Sanatorium Denderoord", "adresse": "Hoge Buizemont 247 9500 Geraardsbergen", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"}]},
+{"numero": "0200.420.410", "generalites": {"numero": "0200.420.410", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest", "adresse": "Michel Theysstraat 18 3290 Diest", "forme_legale": "Autre forme de droit privé avec personnalité juridique"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.420.410", "nom": "", "relation": ""}], "liens_externes": [{"description": "0200.420.410", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"}, {"description": "0400.420.453", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"}, {"description": "0200.420.410", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"}, {"description": "0200.420.410", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"}, {"description": "0400.420.453", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"}]},
+{"numero": "0200.171.970", "generalites": {"numero": "0200.171.970", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Sanatorium-Hospitaal van Lemberge", "adresse": "Brabantdam 101 9000 Gent", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"}]},
+{"numero": "0200.065.765", "generalites": {"numero": "0200.065.765", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "9 août 1960", "denomination": "Intergemeentelijke Vereniging Veneco", "adresse": "Panhuisstraat 1 9070 Destelbergen", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Boterdaele ,   Marc", "date_debut": "28 juin 2023"}, {"titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013"}, {"titre": "Administrateur", "nom": "De Cooman ,   Christine", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "De Maeseneer ,   Dirk", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Demunck ,   Benedikte", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Mervillie ,   Annie", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Roelekens ,   Evelien", "date_debut": "1 décembre 2021"}, {"titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Trenson ,   Herlinde", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Uytterhaegher ,   Kevin", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Van de Moere ,   Franki", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Vandenabeele ,   Luc", "date_debut": "1 avril 2021"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 mars 2007"}, {"description": "Pouvoir adjudicateur", "date_debut": "9 août 1960"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "70.111", "description": "Promotion immobilière de logements", "date_debut": "1 mars 2007"}]}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"}]},
+{"numero": "0200.448.421", "generalites": {"numero": "0200.448.421", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "2 août 1963", "denomination": "Liefdadige Congregatie der Gasthuiszusters", "adresse": "Budastraat(Kor) 37 8500 Kortrijk", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"}]},
+{"numero": "0200.362.210", "generalites": {"numero": "0200.362.210", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "26 février 1968", "denomination": "in BW Association Intercommunale", "adresse": "Rue de la Religion 10 1400 Nivelles", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021"}, {"titre": "Administrateur", "nom": "de Beer de Laer ,   Hadelin", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "de Sauvage ,   Delphine", "date_debut": "12 février 2025"}, {"titre": "Administrateur", "nom": "Delmez ,   Bénédicte", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Dister ,   Christophe", "date_debut": "6 décembre 2024"}, {"titre": "Administrateur", "nom": "Du Monceau de Bergendal ,   Cédric", "date_debut": "11 décembre 2024"}, {"titre": "Administrateur", "nom": "Fayt ,   Christian", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Flamand ,   Muriel", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "9 novembre 2020"}, {"titre": "Administrateur", "nom": "Goblet d'Alviella ,   Michael", "date_debut": "27 juin 2018"}, {"titre": "Administrateur", "nom": "Godfriaux ,   Jordan", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Keymolen ,   Sophie", "date_debut": "7 octobre 2020"}, {"titre": "Administrateur", "nom": "Lebon ,   Patricia", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Löwenthal ,   Bernard", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Renault ,   Louison", "date_debut": "13 novembre 2019"}, {"titre": "Administrateur", "nom": "Smets ,   Laurence", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Thiry ,   Jean-Marie", "date_debut": "2 décembre 2024"}, {"titre": "Administrateur", "nom": "Zocastello ,   Jean", "date_debut": "18 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Dauge ,   Laurent", "date_debut": "1 septembre 2022"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 décembre 1972"}, {"description": "Pouvoir adjudicateur", "date_debut": "26 février 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "90.010", "description": "Collecte et traitement des eaux usées", "date_debut": "1 décembre 1972"}]}, "donnees_financieres": {"assemblee_generale": "juin", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.362.111", "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"}]},
+{"numero": "0200.305.493", "generalites": {"numero": "0200.305.493", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "19 mars 1962", "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie", "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Bontinck ,   Yves", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Clercq ,   Angélique", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Keyser ,   Christiaan", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Martin ,   Jean-Paul", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Neirinck ,   Francia", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Roobroeck ,   Sabine", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Van hooland ,   Tineke", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Van Trimpont ,   Fernand", "date_debut": "2 février 2021"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "16 décembre 2020"}, {"titre": "Administrateur", "nom": "Vander Meeren ,   Luc", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Vanhoutte ,   Brigitte", "date_debut": "13 février 2007"}, {"titre": "Administrateur", "nom": "Vekeman ,   Steven", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Verleyen ,   Geoffrey", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2020"}, {"date_debut": "1 janvier 2017"}, {"date_debut": "1 mai 2017"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "1 janvier 2020"}], "2003": [{"code": "45.213", "description": "Construction de bâtiments d'usage industriel, commercial ou agricole", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "125.000,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"}]},
+{"numero": "0200.420.608", "generalites": {"numero": "0200.420.608", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters van Poperinge", "adresse": "Ieperstraat 134 8970 Poperinge", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"}]}
+][
+{"numero": "0200.171.970", "generalites": {"numero": "0200.171.970", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Sanatorium-Hospitaal van Lemberge", "adresse": "Brabantdam 101 9000 Gent", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200171970&page=1&view_numac=0200171970#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200171970"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200171970/statutes"}]},
+{"numero": "0200.420.410", "generalites": {"numero": "0200.420.410", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters-Augustinessen van Diest", "adresse": "Michel Theysstraat 18 3290 Diest", "forme_legale": "Autre forme de droit privé avec personnalité juridique"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.420.410", "nom": "", "relation": ""}], "liens_externes": [{"description": "0200.420.410", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420410&page=1&view_numac=0200420410#SUM"}, {"description": "0400.420.453", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0400420453&page=1&view_numac=0400420453#SUM"}, {"description": "0200.420.410", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420410"}, {"description": "0200.420.410", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420410/statutes"}, {"description": "0400.420.453", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0400420453/statutes"}]},
+{"numero": "0200.245.711", "generalites": {"numero": "0200.245.711", "statut": "Actif", "situation_juridique": "Dissolution volontaire – liquidation", "date_debut": "1 janvier 1922", "denomination": "Intercommunaal Sanatorium Denderoord", "adresse": "Hoge Buizemont 247 9500 Geraardsbergen", "forme_legale": "Société coopérative de droit public (ancien statut)"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"capital": "0,00", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200245711&page=1&view_numac=0200245711#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200245711"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200245711/statutes"}]},
+{"numero": "0200.362.408", "generalites": {"numero": "0200.362.408", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Intercommunale Sociale du Brabant wallon", "adresse": "Rue du Cerf 200 1332 Rixensart", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agapitos ,   Sophie", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Burton ,   Emmanuel", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Bury ,   Stéphanie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Cambron ,   Carl", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Delmez ,   Annie", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "13 janvier 2025"}, {"titre": "Administrateur", "nom": "Henrioulle ,   Ludivine", "date_debut": "14 décembre 2015"}, {"titre": "Administrateur", "nom": "Lambert ,   Arthur", "date_debut": "8 décembre 2021"}, {"titre": "Administrateur", "nom": "Masson ,   Anne", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Meurice ,   Jean", "date_debut": "20 février 2008"}, {"titre": "Administrateur", "nom": "Peeterbroeck ,   Françoise", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Perpète ,   Robin", "date_debut": "14 décembre 2020"}, {"titre": "Administrateur", "nom": "Pirart ,   Gaëtan", "date_debut": "21 décembre 2017"}, {"titre": "Administrateur", "nom": "Rouget ,   Lionel", "date_debut": "24 juin 2013"}, {"titre": "Administrateur", "nom": "Thoreau ,   Benoit", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Tordoir ,   Joseph", "date_debut": "25 juin 2019"}, {"titre": "Administrateur", "nom": "Verté ,   Cédric", "date_debut": "25 juin 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362408&page=1&view_numac=0200362408#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362408"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362408/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362408"}]},
+{"numero": "0200.065.765", "generalites": {"numero": "0200.065.765", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "9 août 1960", "denomination": "Intergemeentelijke Vereniging Veneco", "adresse": "Panhuisstraat 1 9070 Destelbergen", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Boterdaele ,   Marc", "date_debut": "28 juin 2023"}, {"titre": "Administrateur", "nom": "Buyck ,   Stefaan", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Claeys ,   Danny", "date_debut": "28 mars 2013"}, {"titre": "Administrateur", "nom": "De Cooman ,   Christine", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "De Maeseneer ,   Dirk", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Demunck ,   Benedikte", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Heirwegh ,   Eddy", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Heyerick ,   Henk", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Lehoucq ,   Filip", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Mervillie ,   Annie", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Roelekens ,   Evelien", "date_debut": "1 décembre 2021"}, {"titre": "Administrateur", "nom": "Sierens ,   Elsie", "date_debut": "28 mars 2019"}, {"titre": "Administrateur", "nom": "Trenson ,   Herlinde", "date_debut": "1 avril 2023"}, {"titre": "Administrateur", "nom": "Uytterhaegher ,   Kevin", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Van de Moere ,   Franki", "date_debut": "1 avril 2021"}, {"titre": "Administrateur", "nom": "Vandenabeele ,   Luc", "date_debut": "1 avril 2021"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 mars 2007"}, {"description": "Pouvoir adjudicateur", "date_debut": "9 août 1960"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "68.121", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "70.111", "description": "Promotion immobilière de logements", "date_debut": "1 mars 2007"}]}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200065765&page=1&view_numac=0200065765#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200065765"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200065765/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200065765"}]},
+{"numero": "0200.068.636", "generalites": {"numero": "0200.068.636", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "16 février 1923", "denomination": "Farys", "adresse": "Stropstraat 1 9000 Gent", "forme_legale": "Association chargée de mission (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Bhatti ,   Hina", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "De Mulder ,   Frank", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "De Vis ,   Frank", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Deknopper ,   Eddy", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Demeyer ,   Filip", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Desloovere ,   Wim", "date_debut": "22 décembre 2017"}, {"titre": "Administrateur", "nom": "Foulon ,   Jan", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Ingabire Uwibambe ,   Esther", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Matthys ,   Martine", "date_debut": "22 mars 2019"}, {"titre": "Administrateur", "nom": "Misplon ,   Bert", "date_debut": "19 juin 2020"}, {"titre": "Administrateur", "nom": "Peeters ,   Christophe", "date_debut": "22 juin 2007"}, {"titre": "Administrateur", "nom": "Pierins ,   Philip", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Uyttersprot ,   Goedele", "date_debut": "17 juin 2022"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "11 décembre 2020"}, {"titre": "Administrateur", "nom": "Verleyen ,   Philippe", "date_debut": "16 juin 2006"}, {"titre": "Administrateur", "nom": "Verschraegen ,   Matthijs", "date_debut": "19 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Porto-Carrero ,   Marleen", "date_debut": "18 décembre 2019"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "16 février 1923"}], "autorisations": [{"description": "BELAC - Laboratoire d'essais", "url": "https://weblist.economie.fgov.be/fr/belac/0200.068.636"}], "nace_codes": {"2025": [{"code": "93.126", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.110", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "93.299", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "36.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "24 mars 2010"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "22 juillet 2008"}, {"date_debut": "22 octobre 2008"}], "2003": [{"code": "41.000", "description": "Captage, épuration et distribution d'eau", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "1.978.935,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0427.324.788", "nom": "(AQUINTER)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  23 décembre 2004"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200068636&page=1&view_numac=0200068636#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200068636"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200068636/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200068636"}]},
+{"numero": "0200.362.210", "generalites": {"numero": "0200.362.210", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "26 février 1968", "denomination": "in BW Association Intercommunale", "adresse": "Rue de la Religion 10 1400 Nivelles", "forme_legale": "Société coopérative"}, "fonctions": [{"titre": "Administrateur", "nom": "Agosti ,   Gilles", "date_debut": "12 mai 2021"}, {"titre": "Administrateur", "nom": "de Beer de Laer ,   Hadelin", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "de Sauvage ,   Delphine", "date_debut": "12 février 2025"}, {"titre": "Administrateur", "nom": "Delmez ,   Bénédicte", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Dister ,   Christophe", "date_debut": "6 décembre 2024"}, {"titre": "Administrateur", "nom": "Du Monceau de Bergendal ,   Cédric", "date_debut": "11 décembre 2024"}, {"titre": "Administrateur", "nom": "Fayt ,   Christian", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Flamand ,   Muriel", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Ghiot ,   Carole", "date_debut": "9 novembre 2020"}, {"titre": "Administrateur", "nom": "Goblet d'Alviella ,   Michael", "date_debut": "27 juin 2018"}, {"titre": "Administrateur", "nom": "Godfriaux ,   Jordan", "date_debut": "12 décembre 2018"}, {"titre": "Administrateur", "nom": "Henry ,   Pascal", "date_debut": "26 juin 2013"}, {"titre": "Administrateur", "nom": "Huart ,   Pierre", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Keymolen ,   Sophie", "date_debut": "7 octobre 2020"}, {"titre": "Administrateur", "nom": "Lebon ,   Patricia", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Löwenthal ,   Bernard", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Renault ,   Louison", "date_debut": "13 novembre 2019"}, {"titre": "Administrateur", "nom": "Smets ,   Laurence", "date_debut": "18 juin 2001"}, {"titre": "Administrateur", "nom": "Thiry ,   Jean-Marie", "date_debut": "2 décembre 2024"}, {"titre": "Administrateur", "nom": "Zocastello ,   Jean", "date_debut": "18 décembre 2019"}, {"titre": "Personne déléguée à la gestion journalière", "nom": "Dauge ,   Laurent", "date_debut": "1 septembre 2022"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 décembre 1972"}, {"description": "Pouvoir adjudicateur", "date_debut": "26 février 1968"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "37.000", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2008"}], "2003": [{"code": "90.010", "description": "Collecte et traitement des eaux usées", "date_debut": "1 décembre 1972"}]}, "donnees_financieres": {"assemblee_generale": "juin", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"numero": "0200.362.111", "nom": "(Intercommunale des Eaux du Centre du Brabant wallon)\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\test absorbée par cette entité \n\t\t\t\t\t\t\t\t\t\t\tdepuis le  5 décembre 2017"}, {"numero": "Publications au Moniteur belge", "nom": "", "relation": ""}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200362210&page=1&view_numac=0200362210#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200362210"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200362210/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200362210"}]},
+{"numero": "0200.305.493", "generalites": {"numero": "0200.305.493", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "19 mars 1962", "denomination": "Intergemeentelijk Samenwerkingsverband voor ruimtelijke ordening en socio-economische expansie", "adresse": "Gentsesteenweg 1B 9520 Sint-Lievens-Houtem", "forme_legale": "Association prestataire de services (Région flamande)"}, "fonctions": [{"titre": "Administrateur", "nom": "Beeckman ,   Anja", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Bontinck ,   Yves", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Corijn ,   Rudy", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Clercq ,   Angélique", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "De Keyser ,   Christiaan", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "De Vos ,   Linda", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Dekimpe ,   Lode", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Martin ,   Jean-Paul", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Neirinck ,   Francia", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Roobroeck ,   Sabine", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Schamp ,   Carine", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Van hooland ,   Tineke", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Van Trimpont ,   Fernand", "date_debut": "2 février 2021"}, {"titre": "Administrateur", "nom": "Van Vaerenbergh ,   Silke", "date_debut": "16 décembre 2020"}, {"titre": "Administrateur", "nom": "Vander Meeren ,   Luc", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Vanhoutte ,   Brigitte", "date_debut": "13 février 2007"}, {"titre": "Administrateur", "nom": "Vekeman ,   Steven", "date_debut": "19 avril 2022"}, {"titre": "Administrateur", "nom": "Verleyen ,   Geoffrey", "date_debut": "26 juin 2019"}, {"titre": "Administrateur", "nom": "Wallays ,   Bart", "date_debut": "1 mai 2016"}], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [{"description": "Employeur ONSS", "date_debut": "1 janvier 2022"}, {"description": "Assujettie à la TVA", "date_debut": "1 janvier 1971"}, {"description": "Pouvoir adjudicateur", "date_debut": "1 janvier 1922"}], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [{"code": "82.990", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "68.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "94.999", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "71.122", "description": "TVA 2025", "date_debut": "1 janvier 2025"}, {"code": "41.003", "description": "TVA 2025", "date_debut": "1 janvier 2025"}], "2008": [{"date_debut": "1 janvier 2020"}, {"date_debut": "1 janvier 2017"}, {"date_debut": "1 mai 2017"}, {"date_debut": "1 janvier 2008"}, {"date_debut": "1 janvier 2020"}], "2003": [{"code": "45.213", "description": "Construction de bâtiments d'usage industriel, commercial ou agricole", "date_debut": "1 janvier 1971"}]}, "donnees_financieres": {"capital": "125.000,00 EUR", "assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200305493&page=1&view_numac=0200305493#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200305493"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200305493/statutes"}, {"description": "Répertoire des employeurs", "url": "https://employer-identification-consult.socialsecurity.be/employer/enterprise/0200305493"}]},
+{"numero": "0200.448.421", "generalites": {"numero": "0200.448.421", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "2 août 1963", "denomination": "Liefdadige Congregatie der Gasthuiszusters", "adresse": "Budastraat(Kor) 37 8500 Kortrijk", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200448421&page=1&view_numac=0200448421#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200448421"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200448421/statutes"}]},
+{"numero": "0200.420.608", "generalites": {"numero": "0200.420.608", "statut": "Actif", "situation_juridique": "Situation normale", "date_debut": "1 janvier 1968", "denomination": "Congregatie der Gasthuiszusters van Poperinge", "adresse": "Ieperstraat 134 8970 Poperinge", "forme_legale": "Etablissement public"}, "fonctions": [], "capacites": [{"type": "Pas de données reprises dans la BCE."}], "qualites": [], "autorisations": [{"description": "Pas de données reprises dans la BCE."}], "nace_codes": {"2025": [], "2008": [], "2003": []}, "donnees_financieres": {"assemblee_generale": "mai", "fin_annee_comptable": "31 décembre"}, "liens_entites": [{"description": "Pas de données reprises dans la BCE."}], "liens_externes": [{"description": "Publications au Moniteur belge", "url": "https://www.ejustice.just.fgov.be/cgi_tsv/list.pl?language=fr&btw=0200420608&page=1&view_numac=0200420608#SUM"}, {"description": "Publications des comptes annuels à la BNB", "url": "https://consult.cbso.nbb.be/consult-enterprise/0200420608"}, {"description": "Base de données des statuts et des pouvoirs de représentation (actes notariés)", "url": "https://statuts.notaire.be/stapor_v1/enterprise/0200420608/statutes"}]}
+]
